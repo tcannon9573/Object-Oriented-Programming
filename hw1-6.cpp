@@ -27,7 +27,7 @@ int main() {
         finalDigit = newSum;
     }
 
-    std::cout << "Bonus: The final single digit is " << finalDigit << "." << std::endl;
+    std::cout << "The final single digit is " << finalDigit << "." << std::endl;
 
     return 0;
 }
